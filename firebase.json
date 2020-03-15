@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "public",
+    "site": "infogsolution-new",
+    "public": "",
     "ignore": [
       "firebase.json",
       "**/.*",
